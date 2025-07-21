@@ -40,7 +40,8 @@ Exemplo:
 Para o projeto funcionar é necessário instalar as dependências que estão no arquivo requirements.txt
 Exemplo:
 
-<img width="388" height="307" alt="image" src="https://github.com/user-attachments/assets/5d648114-f196-4f6a-b076-7f91695e4005" />
+<img width="386" height="340" alt="image" src="https://github.com/user-attachments/assets/05648c12-18cf-41ae-a715-2f9918056103" />
+
 
 🔧 Ajustes necessários
 📌 Dados da OLT (arquivo ssh.py)
@@ -56,5 +57,6 @@ Porém, esses equipamentos estarão no Excel para informar a rede parceira.
 
 Exemplo:
 
-<img width="1387" height="351" alt="image" src="https://github.com/user-attachments/assets/55101053-7f5c-4d91-84a7-4a97ff732923" />
+<img width="579" height="201" alt="image" src="https://github.com/user-attachments/assets/4a1822b0-103b-4843-8926-401b3c646c05" />
+
 
