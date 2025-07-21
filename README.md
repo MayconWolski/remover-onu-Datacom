@@ -10,7 +10,8 @@ Esse projeto atualmente está na versão beta, utilizando uma Base de dados em E
 Armazena todos os dados recolhidos da OLT, gerando um arquivo com o IP, DATA, HORA
 Exemplo:
 
-<img width="510" height="133" alt="image" src="https://github.com/user-attachments/assets/1ec7a9c4-fe1f-42b7-97eb-ab07e62553d6" />
+<img width="500" height="51" alt="image" src="https://github.com/user-attachments/assets/9095fdbe-59e0-4f06-9488-d2da0823057b" />
+
 
 📁 Pasta Excel
 Armazena os dados Excel do projeto
@@ -22,7 +23,8 @@ Exemplo:
 Armazena os arquivos .log do projeto
 Exemplo:
 
-<img width="457" height="131" alt="image" src="https://github.com/user-attachments/assets/3dfce40a-4a1e-4478-b892-f05e2b4d2f0d" />
+<img width="510" height="133" alt="image" src="https://github.com/user-attachments/assets/1ec7a9c4-fe1f-42b7-97eb-ab07e62553d6" />
+
 📄 Arquivos principais do projeto
 excel.py = Fica armazenado todos os dados de criação e manipulação dos dados do projeto (o Excel será removido no futuro)
 
