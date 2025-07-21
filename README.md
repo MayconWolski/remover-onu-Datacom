@@ -1,3 +1,5 @@
+Esse projeto foi desenvolvido com a finalidade de remover ONU inativas de OLTs Datacom essa e uma versão de esboço estou finalizando a versão mais estavel e com melhorias.
+
 # ⚠️ INFORMAÇÃO IMPORTANTE
 # ESSE PROJETO SÓ FUNCIONA SE OS EQUIPAMENTOS EXIBIR O TEMPO OFFLINE
 
