@@ -1,10 +1,22 @@
-⚠️ INFORMAÇÃO IMPORTANTE
-ESSE PROJETO SÓ FUNCIONA SE OS EQUIPAMENTOS EXEBIREM O TEMPO OFFLINE
+# ⚠️ INFORMAÇÃO IMPORTANTE
+# ESSE PROJETO SÓ FUNCIONA SE OS EQUIPAMENTOS EXEBIREM O TEMPO OFFLINE
+
+
+Exemplo:
+
+Comando para verificar: show interface gpon onu  (Só coloar a pon e onu ) 
+
+<img width="533" height="555" alt="image" src="https://github.com/user-attachments/assets/d9b8ba32-75af-4457-b58b-0579b8391162" />
+
+
 Quero mostrar um projeto que estou fazendo com o objetivo de ajudar os #provedores a fazer a remoção de ONU inativas na rede.
 Como sabemos, alguns processos no dia a dia podem não ser feitos corretamente ou até mesmo a comunicação entre os setores pode falhar, e acaba que as ONUs não sejam removidas dos equipamentos — gerando transtornos, tanto quando são reutilizadas quanto para identificar eventos na rede GPON.
 
 🔄 Projeto em versão beta
 Esse projeto atualmente está na versão beta, utilizando uma Base de dados em Excel e arquivos .log, com a seguinte estrutura:
+
+<img width="382" height="366" alt="image" src="https://github.com/user-attachments/assets/3af504bb-bfcd-4d3d-93e5-b72b2039130b" />
+
 
 📁 Pasta backup_OLT
 Armazena todos os dados recolhidos da OLT, gerando um arquivo com o IP, DATA, HORA
