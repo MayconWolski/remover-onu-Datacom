@@ -18,6 +18,9 @@ Esse projeto atualmente está na versão beta, utilizando uma Base de dados em E
 <img width="382" height="366" alt="image" src="https://github.com/user-attachments/assets/3af504bb-bfcd-4d3d-93e5-b72b2039130b" />
 
 
+#obs: Os arquivos me_delete.txt eu coloquei só para subir as pastas pode esta deletando esses arquivos 
+
+
 📁 Pasta backup_OLT
 Armazena todos os dados recolhidos da OLT, gerando um arquivo com o IP, DATA, HORA
 Exemplo:
