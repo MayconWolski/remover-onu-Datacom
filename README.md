@@ -34,7 +34,8 @@ paths.py = Ficam as rotas dos arquivos do projeto, como .log e excel
 
 Exemplo:
 
-<img width="1275" height="681" alt="image" src="https://github.com/user-attachments/assets/903c15cd-2478-409d-925c-c09361297cfb" />
+<img width="1194" height="654" alt="image" src="https://github.com/user-attachments/assets/327b2a9b-14ee-47c1-928f-4db3fe9fb531" />
+
 ⚙️ Instalação das dependências
 Para o projeto funcionar é necessário instalar as dependências que estão no arquivo requirements.txt
 Exemplo:
@@ -47,8 +48,7 @@ Esses campos precisam ser alterados para adicionar os dados da OLT DATACOM
 
 Exemplo:
 
-<img width="776" height="356" alt="image" src="https://github.com/user-attachments/assets/37ec5b19-8893-4558-8b79-2c8d6121af6a" />
-
+<img width="386" height="340" alt="image" src="https://github.com/user-attachments/assets/1e52d43d-cbea-4694-b18a-ea7f935da940" />
 
 📌 ONUs de redes parceiras (arquivo excel.py)
 Caso a rede tenha equipamentos de redes parceiras e as ONUs tenham nomes como, por exemplo, 001234_TESTENET, é necessário colocar nesse campo abaixo para não remover os clientes da rede parceira.
