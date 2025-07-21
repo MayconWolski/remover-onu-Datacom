@@ -10,13 +10,14 @@ Esse projeto atualmente está na versão beta, utilizando uma Base de dados em E
 Armazena todos os dados recolhidos da OLT, gerando um arquivo com o IP, DATA, HORA
 Exemplo:
 
-<img width="382" height="366" alt="image" src="https://github.com/user-attachments/assets/831ba95f-b40f-4953-b0c4-67a87e1dc1fb" />
+<img width="510" height="133" alt="image" src="https://github.com/user-attachments/assets/1ec7a9c4-fe1f-42b7-97eb-ab07e62553d6" />
 
 📁 Pasta Excel
 Armazena os dados Excel do projeto
 Exemplo:
 
-<img width="457" height="156" alt="image" src="https://github.com/user-attachments/assets/fcddcb2b-c45c-4b74-9e16-52d69f31201b" />
+<img width="523" height="161" alt="image" src="https://github.com/user-attachments/assets/ec522c5b-7535-4948-84fd-1d369a4d0dbc" />
+
 📁 Pasta File_log
 Armazena os arquivos .log do projeto
 Exemplo:
