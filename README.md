@@ -66,7 +66,7 @@ Esses campos precisam ser alterados para adicionar os dados da OLT DATACOM
 
 Exemplo:
 
-<img width="386" height="340" alt="image" src="https://github.com/user-attachments/assets/1e52d43d-cbea-4694-b18a-ea7f935da940" />
+<img width="579" height="201" alt="image" src="https://github.com/user-attachments/assets/4a1822b0-103b-4843-8926-401b3c646c05" />
 
 📌 ONUs de redes parceiras (arquivo excel.py)
 Caso a rede tenha equipamentos de redes parceiras e as ONUs tenham nomes como, por exemplo, 001234_TESTENET, é necessário colocar nesse campo abaixo para não remover os clientes da rede parceira.
