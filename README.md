@@ -6,7 +6,7 @@ Esse projeto foi desenvolvido com a finalidade de remover ONU inativas de OLTs D
 
 Exemplo:
 
-Comando para verificar: show interface gpon onu  (Só coloar a pon e onu ) 
+Comando para verificar: show interface gpon onu  (Só colocar a pon e onu ) 
 
 <img width="533" height="555" alt="image" src="https://github.com/user-attachments/assets/d9b8ba32-75af-4457-b58b-0579b8391162" />
 
